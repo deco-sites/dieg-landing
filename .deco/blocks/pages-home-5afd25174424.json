@@ -7,7 +7,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
+      "title": "<p><span style=\"font-size: 14pt\">Click here to </span><em><span style=\"font-size: 14pt\">tweak </span></em><span style=\"font-size: 14pt\">this text </span><strong><span style=\"font-size: 14pt\">however </span></strong><span style=\"font-size: 14pt\">you want.</span></p>",
       "cta": [
         {
           "href": "www.google.com",
